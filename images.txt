@@ -1,2 +1,2 @@
-docker.getcollate.io/openmetadata/db:1.4.3
+arm64v8/docker.getcollate.io/openmetadata/db:1.4.3
 --platform=linux/arm64
