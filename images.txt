@@ -1,2 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch:8.10.2
+docker.getcollate.io/openmetadata/server:1.4.3
 --platform=linux/arm64
