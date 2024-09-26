@@ -1,1 +1,3 @@
---platform=linux/arm64/v8 acryldata/datahub-actions:head
+--platform=linux/arm64/v8 acryldata/datahub-frontend-react:head
+--platform=linux/arm64/v8 acryldata/datahub-gms:head
+--platform=linux/arm64/v8 acryldata/datahub-upgrade:head
