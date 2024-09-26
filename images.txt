@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 acryldata/datahub-actions:0.14.1
+--platform=linux/arm64/v8 acryldata/datahub-actions:head
