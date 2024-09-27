@@ -1,3 +1,1 @@
---platform=linux/arm64/v8 acryldata/datahub-mysql-setup:head
---platform=linux/arm64/v8 confluentinc/cp-schema-registry:7.4.0
---platform=linux/arm64/v8 confluentinc/cp-zookeeper:7.4.0
+--platform=linux/arm64/v8  postgres:alpine3.20
