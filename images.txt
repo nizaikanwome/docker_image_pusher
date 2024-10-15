@@ -1,4 +1,3 @@
---platform=linux/arm64/v8 image: alpine/socat
 --platform=linux/arm64/v8 image: airbyte/init:3.8
 --platform=linux/arm64/v8 image: airbyte/bootloader:3.8
 --platform=linux/arm64/v8 image: airbyte/db:3.8
