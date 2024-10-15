@@ -1,1 +1,11 @@
---platform=linux/arm64/v8  confluentinc/cp-schema-registry:7.4.0
+--platform=linux/arm64/v8 image: alpine/socat
+--platform=linux/arm64/v8 image: airbyte/init:3.8
+--platform=linux/arm64/v8 image: airbyte/bootloader:3.8
+--platform=linux/arm64/v8 image: airbyte/db:3.8
+--platform=linux/arm64/v8 image: airbyte/worker:3.8
+--platform=linux/arm64/v8 image: airbyte/server:3.8
+--platform=linux/arm64/v8 image: airbyte/webapp:3.8
+--platform=linux/arm64/v8 image: airbyte/temporal:3.8
+--platform=linux/arm64/v8 image: airbyte/cron:3.8
+--platform=linux/arm64/v8 image: airbyte/connector-builder-server:3.8
+--platform=linux/arm64/v8 image: airbyte/proxy:3.8
